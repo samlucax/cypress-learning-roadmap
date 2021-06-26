@@ -26,62 +26,62 @@ O Cypress Learning Checklist é uma lista com comandos do Cypress organizados po
 
 ### Comandos ⭐️⭐️⭐️
 
-- ⭐️⭐️⭐️ click
-- ⭐️⭐️⭐️ contains
-- ⭐️⭐️⭐️ get
-- ⭐️⭐️⭐️ intercept
-- ⭐️⭐️⭐️ log
-- ⭐️⭐️⭐️ pause
-- ⭐️⭐️⭐️ request
-- ⭐️⭐️⭐️ screenshot
-- ⭐️⭐️⭐️ should
-- ⭐️⭐️⭐️ then
-- ⭐️⭐️⭐️ type
-- ⭐️⭐️⭐️ visit
-- ⭐️⭐️⭐️ wait
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/click">click</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/contains">contains</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/get">get</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/intercept">intercept</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/log">log</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/pause">pause</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/request">request</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/screenshot">screenshot</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/should">should</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/then">then</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/type">type</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/visit">visit</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/wait">wait</a>
 
 ### Comandos ⭐️⭐️
 
-- ⭐️⭐️ as 
-- ⭐️⭐️ check
-- ⭐️⭐️ children
-- ⭐️⭐️ clear
-- ⭐️⭐️ eq
-- ⭐️⭐️ find
-- ⭐️⭐️ first
-- ⭐️⭐️ fixture
-- ⭐️⭐️ its
-- ⭐️⭐️ last
-- ⭐️⭐️ parent
-- ⭐️⭐️ readFile
-- ⭐️⭐️ scrollIntoView
-- ⭐️⭐️ select
-- ⭐️⭐️ submit
-- ⭐️⭐️ uncheck
-- ⭐️⭐️ url
-- ⭐️⭐️ viewport
-- ⭐️⭐️ window
-- ⭐️⭐️ writeFile
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/as">as</a> 
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/check">check</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/children">children</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/clear">clear</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/eq">eq</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/find">find</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/first">first</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/fixture">fixture</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/its">its</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/last">last</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/parent">parent</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/readFile">readFile</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/scrollIntoView">scrollIntoView</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/select">select</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/submit">submit</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/uncheck">uncheck</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/url">url</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/viewport">viewport</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/window">window</a>
+- ⭐️⭐️ <a href="https://docs.cypress.io/api/commands/writeFile">writeFile</a>
 
 ### Comandos ⭐️
 
-- ⭐️ and
-- ⭐️ clearCookie
-- ⭐️ clearCookies
-- ⭐️ clearLocalStorage
-- ⭐️ each
-- ⭐️ getCookie
-- ⭐️ getCookies
-- ⭐️ go
-- ⭐️ invoke
-- ⭐️ next
-- ⭐️ prev
-- ⭐️ reload
-- ⭐️ route
-- ⭐️ server
-- ⭐️ siblings
-- ⭐️ spread
-- ⭐️ trigger
+- ⭐️ <a href="https://docs.cypress.io/api/commands/and">and</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/clearCookie">clearCookie</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/clearCookies">clearCookies</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/clearLocalStorage">clearLocalStorage</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/each">each</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/getCookie">getCookie</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/getCookies">getCookies</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/go">go</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/invoke">invoke</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/next">next</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/prev">prev</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/reload">reload</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/route">route</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/server">server</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/siblings">siblings</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/spread">spread</a>
+- ⭐️ <a href="https://docs.cypress.io/api/commands/trigger">trigger</a>
 
 Lembrando que essa é uma lista *otimizada*. Logo, você deve priorizar os itens acima, e **quando** concluir os estudos passar a estudar os comandos abaixo. Ou, apenas ler brevemente o que faz cada um para ter consciência do uso.
 
